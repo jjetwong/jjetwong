@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Websites and UI/UX 
-- 📫 You can reach me at my website: jjetwong.xyz or email: jjetwong@gmail.com
+- 📫 You can reach me at my website: www.jjetwong.xyz or email: jjetwong@gmail.com
 
   ![](https://komarev.com/ghpvc/?username=jjetwong&color=grey)
 
