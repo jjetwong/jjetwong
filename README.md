@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jin Jet Wong
 - 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Websites and UI/UX 
+- 💞️ I’m looking to collaborate on Websites 
 - 📫 You can reach me at my website: www.jjetwong.xyz or email: jjetwong@gmail.com
 
   ![](https://komarev.com/ghpvc/?username=jjetwong&color=grey)
